@@ -15,3 +15,4 @@ Based on Flask implementation by **dvf**.
 
 
 This is a toy example. Don't use on anything important/don't use real info.
+Does *NOT* contain a consensus algo.
